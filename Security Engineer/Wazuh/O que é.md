@@ -1,0 +1,1 @@
+Wazuh é uma solução unificada de XDR SIEM, com visualização Web-based, feito em ambiente Open Source, 

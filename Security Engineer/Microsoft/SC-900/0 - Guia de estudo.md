@@ -1,0 +1,1 @@
+[Guia de estudo para o Exame SC-900: Conceitos básicos de segurança, conformidade e identidade da Microsoft | Microsoft Learn](https://learn.microsoft.com/pt-br/credentials/certifications/resources/study-guides/sc-900)
