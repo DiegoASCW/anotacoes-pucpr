@@ -1,0 +1,13 @@
+[tmux]
+tmux a   # retorna/recupera a sessão
+tmux ls   # lista as sessões ativas
+tmux a -t <nome_sessão>   # retoma uma sessão em específico
+tmux kill-session -t <nome_sessão>
+
+
+[docker]
+docker ps -a
+docker run -it -d
+docker start -it -d
+docker pull
+docker prune

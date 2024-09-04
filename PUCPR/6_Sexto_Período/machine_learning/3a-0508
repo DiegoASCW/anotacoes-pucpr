@@ -1,0 +1,39 @@
+
+---
+Revisão:
+Abordagens de machine learning:
+- Aprend. Supervisionada
+- Aprend. ñ supervisionada
+- Aprend. Por reforço (Aprende com o tempo)
+
+Aprend Supervisionada:
+- Classificação: por meio de testes
+- Regressão: por meio do resultado anterior posso prever o próximo
+---
+
+Rótulos: quando trabalhamos com a apred. supervisionada, precisamos rotular os dados, ou seja, ter uma núvem de informações e apontar o que estes dados são, para ele dividir depois novas entradas.
+- Para modelos supervisionados é muito importante apontar para a máquina o que estamos buscando
+- Para rotular usamos variáveis Qualitativas e Quantitativas
+
+Viés x Variância (melhor definição nos slides):
+- Viés: flexibilidade do modelo em aprender com os novos dados;
+- Variância: generalidade do modelo para reduzir erros nos testes
+
+Maldição da Dimensionalidade: quando há uma grande quantidade de colunas, precisamos ver quais colunas vão trazer melhoria pro modelo pois quando mais dados próximos o modelo consumir, mais confuso ficará pro modelo.
+
+Heteroscedasticidade:
+- aumento da variância
+- ocorre quando há crescimento em cone
+
+Interpolação x Extrapolação:
+- In: trabalhar em região conhecida de dados
+- Ex: trabalhar em reigão desconhecida de dados
+
+Solução! Análise exploratória dos dados:
+- Limpeza dos dados;
+- Re-amostragem
+- Enseble learning: combinação dos resultados de diversos modelos, juntando todas, e criando um resultado muito bom;
+
+professor messer
+Dions
+https://www.reddit.com/r/cybersecurity/comments/19emb6i/study_guide_for_sec/

@@ -1,0 +1,52 @@
+PII sensível e não sensível, é definido pela jurisdição local, onde por exemplo: pela LGPD, afiliação política é dado sensível.
+
+Privace by Design (PbD)
+lembrando: PbD = usuário não precisa se preocupar com sua privacidade, ela vêm de fábrica
+
+
+
+
+
+Case Flamengo:
+Proatividade:
+- Realiza análise de risco dos fornecedores;
+- Utilização de métodos de mercado de proteção (criptografia e anonimização)
+- Acesso restrito às informações
+Privacidade por padrão:
+- Exige consentimento do usuário para seu uso e compartilhamento específico
+Processamento:
+- Contém de maneira clara o recebimento, armazenamento, uso, e descarte dos dados, bem como para quais fins é esperado seu uso, e para quem será enviado
+Funcionalidade total:
+- resguarda para si também alguns luxos, a fim de manter fluidez do negócio e das aplicações mas sem desrespeitar o usuário, vide consentimento;
+Ponto-a-ponto:
+- Por meio de técnicas "razoáveis de mercado", ele declaradamente utiliza de técnicas de criptografia de transporte e armazenamento, além de restringir acesso a somente pessoal necessário;
+Transparência:
+- Por meio de suas políticas públicas;
+Respeito ao usuário:
+- além de disponibilizar documento de fácil legibilidade, contatos explícito ao DPO, bem como consentimento do usuário para compartilhamento a terceiros, é previso também que o direito a exclusão é resguardada ao usuário. Além de que somente os dados necessários serão compartilhados aos terceiros.
+
+Porquê PbD é importante:
+Não tão somente para poder operar de acordo com as legislações locais sem problemas, ter o conceito de Privacy by Design implantado é uma medida efetiva contra ameaças externas como grupos hackers, e ameaças internas, como um funcionário insatisfeito, ou alguém "caçando" alguém. Vale salientar que caso ocorra algum vazamento de dados, o dano reputacional é incalculável, além de danos aos indivíduos expostos.
+
+Como aplicar de maneira prática:
+Sabendo que este é um framework que exige alto envolvimento da alta direção, bem como de diversos setores de uma empresa, podemos aplicar da seguinte maneira:
+1. Requisitos: além de identificar os requisitos regulatórios envolvidos no projeto, é necessário elencar os riscos à privacidade envolvidos diretamente e indiretamente, no projeto;
+2. Design: definir o que deve ser coleta é o pilar fundamental, pois nem todas as informações de um indivíduo são necessárias para o funcionamento correto de uma aplicação. Sabendo disso, aqueles que forem coletados devem ser armazenados da melhor forma possível, aplicando conceitos como criptografia de dados em repouso, além de pseudoanonimização quando possível;
+3. Fluxo: compreender todo o caminho onde um dado explícito passa, por exemplo: quais servidores irão manipular um CPF explícito;
+4. Treinamento: aplicar controles operacionais é essencial para evitar mal uso das informações por meio dos colaboradores, ou partes interessadas;
+5. Revisão das políticas e processos: revisitar processos e políticas existentes para validar se estão páreos com a legislação vigente.
+
+exercício FIPPs
+registro.br
+Limitação da coleta: Dados técnicos: IP do computador, características do navegador, e portas lógicas. Nome do registrador e métodos de pagamento. Demais dados coletados: somente registro a domínios associados e consultas no site.
+Qualidade dos Dados: Muito ligado ao 1o ponto, onde somente o necessário é coletado. Para armazenamento: controle restrito para acesso aos dados dos usuários, onde há autorização por meio de cargo, e métodos de autenticação variados.
+Propósito: os dados coletados são para fins técnicos e administrativos internos, previsto no contrato do titular para registro de domínios no registro.br.
+Medidas de segurança: Para os dados coletados: acesso restrito como mencionado anteriormente, bem como anonimização destes, sempre se referindo a um grupo de dados, e não a pessoas.
+Abertura: documento simples para identificar os direitos, e para exclusão destes é somente por meio de abertura de protocolo.
+Participação do indivíduo: para ter ciência dos dados que já foram coletados, pode-se abrir um protocolo para obter a relação.
+Contabilidade: se dispõe a tratar os dados de acordo com as políticas locais vigentes, mas no caso de dados financeiros é com relação a legislação vigente ao sigilo bancário.
+
+- Controlador: registro.br
+- Processador: nic.br
+- Titular dos dados: usuários e compradores
+- Terceiros: terceiros

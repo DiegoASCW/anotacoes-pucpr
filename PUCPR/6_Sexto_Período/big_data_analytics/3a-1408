@@ -1,0 +1,9 @@
+[Apache Spark]
+Ao invés de manipular blocos de arquivo (lembrando do HDFS), o Spark utiliza o RDD, ou seja, utiliza o conceito de referência dos blocos.
+
+Não utilizaremos mais MapReduce, e sim DAG
+- Utiliza o conceito de Master e Slaves distribuídos
+
+Ação:
+- Depois dos dados processados, quero tirar algumas informações deles
+
